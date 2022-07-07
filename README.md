@@ -1,6 +1,6 @@
 ## Advanced-Graphs
 
-### This project contains python implementations of 2 advanced shortest path graphs.
+### This project contains python implementations of 2 advanced shortest path graph algorithms.
 
 #### 1.Bidirectional Dijkstra
 #### This algorithm was tested against the following networks:
